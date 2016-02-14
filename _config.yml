@@ -2,6 +2,7 @@ name: music expression
 favicon: null
 layout_spectrum: 0.9028345856349915
 typography_spectrum: 0.575199413113296
+title: music expression
 cta:
   domain: null
   bucket: null
