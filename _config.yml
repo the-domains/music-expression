@@ -1,0 +1,28 @@
+name: music expression
+favicon: null
+layout_spectrum: 0.9028345856349915
+typography_spectrum: 0.575199413113296
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7956705002579838
+  lightness: 0.4301714189350605
+  saturation: 0.5450747162103653
+  rhythmicContrast: 0.2655967101454735
+purpose: []
