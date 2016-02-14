@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[music expression]]></title>
+        <description><![CDATA[music expression]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 14 Feb 2016 08:23:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>it's all about timing - about how and when, not why and what</p>]]></description>
+            <link>undefined0b340335-eb49-4107-a09c-ceef270c4575/index.html</link>
+            <guid isPermaLink="false">0b340335-eb49-4107-a09c-ceef270c4575</guid>
+            <pubDate>Sun, 14 Feb 2016 08:23:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
